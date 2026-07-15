@@ -1,0 +1,4 @@
+data/creditcard.csv
+*.pkl
+.venv/
+__pycache__/
